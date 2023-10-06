@@ -23,7 +23,7 @@ Education is a vital cornerstone of society, and understanding the factors that 
 The dataset used for this project contains information collected from questionnaires administered in Iraqi secondary schools. It includes demographic attributes, economic indicators, educational background details, time-related features, and academic performance marks. A detailed description of the dataset's attributes can be found in Table 1.
 
 ## Methodology
-Our approach involves data preprocessing, exploratory data analysis (EDA), feature engineering, predictive modeling, and evaluation. We employ machine learning algorithms to build predictive models that forecast student success based on the provided features. Evaluation metrics such as accuracy, precision, recall, and F1-score are used to assess model performance.
+My approach involves data preprocessing, exploratory data analysis (EDA), feature engineering, predictive modeling, and evaluation. We employ machine learning algorithms to build predictive models that forecast student success based on the provided features. Evaluation metrics such as accuracy, precision, recall, and F1-score are used to assess model performance.
 
 ## Project Structure
 The project is organized into the following directories:
