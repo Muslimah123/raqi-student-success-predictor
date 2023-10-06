@@ -38,7 +38,7 @@ The project is organized into the following directories:
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/iraqi-student-success-predictor.git
+git clone https://github.com/Muslimah123/raqi-student-success-predictor
 
 
 
